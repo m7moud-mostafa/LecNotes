@@ -1,7 +1,7 @@
 # Lecture 1 - Introduction 
 
 * Classroom: gsshftx
-* Software: (Sweethome3d)[https://www.sweethome3d.com/]
+* Software: [Sweethome3d](https://www.sweethome3d.com/)
 
 
 ## What is Production system
@@ -44,4 +44,5 @@ but if you want to produce only bolts you can use press machine you can produce 
 * mass or repetitve: (like the car assembly line)
 * batch or celluar:  like the clothes factoryies (it creates batchs and each batch with different design for example) it contains machine to produce a family of products
 
-![graph](/home/mahmoud/Pictures/figure1.png)
+
+![alt text](image.png)
