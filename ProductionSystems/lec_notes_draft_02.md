@@ -43,7 +43,7 @@ the charts are tool that describbe the productit contains some starnd symbols:
 
 it include :
 ### 1. assembly chart
-a production chart that shows the assembly oprations only example: 
+a production chart that shows the assembly oprations only example:  
 ![alt text](image-3.png)
 it shows the prececessors of each assembly opration (what is depending on what)
 
